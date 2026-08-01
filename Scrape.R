@@ -3,6 +3,8 @@ library(tidyverse)
 
 url <- "https://broncosports.com/sports/football/roster"
 
+#Next year: Make a system for updating the script as the roster updates
+
 
 # Get Roster -------------------------------------------------------------
 
